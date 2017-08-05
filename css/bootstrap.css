@@ -6581,4 +6581,8 @@ button.close {
     display: none !important;
   }
 }
+
+.white-bg{
+    background:#ffffff !important;
+}
 /*# sourceMappingURL=bootstrap.css.map */
