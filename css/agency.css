@@ -976,22 +976,15 @@ body {
     webkit-tap-highlight-color: #fed136;
 }
 
-/*fade functionality*/
-.fade {
-       opacity: 1;
-       transition: opacity .25s ease-in-out;
-       -moz-transition: opacity .25s ease-in-out;
-       -webkit-transition: opacity .25s ease-in-out;
-       }
-
-       .fade:hover {
-          opacity: 0.5;
-          }
+#wrapper {
+    width: 500px;
+    margin: 0 auto;
+}
 /*testing*/
  .box {  
     cursor: pointer;  
     height: 300px;   
-    margin: 5px;  
+    margin: 5px; 
     position: relative;  
     overflow: hidden;  
     width: 300px;  
