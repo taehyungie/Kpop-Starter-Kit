@@ -1,16 +1,22 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
+## Kpop Starter Kit
 
-[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
+Hey everyone! Lo and behold, the Kpop Starter Kit by your fellow kpop fans, Ana and Lauren!
 
-## Getting Started
+This Starter Kit is perfect for you if...
+* You feel overwhelmed by the world of kpop
+* Kpop is taking over and you need to know about it ~you gotta be in the know
+* You can't read Korean and need one source to get information and news about Kpop in English
+* You want to get to know each individual member
+* You want to admire a member (or several)
+* You want to find music
 
-To use this theme, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+## Features
 
-## Bugs and Issues
-
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
+* Beautiful, high quality pictures of each and every single member
+* English translations of certain words fans use in Korean
+* Videos
+* Music
+* Updates brought to you by the Twitter API
 
 ## Creator
 
@@ -23,4 +29,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 ## Copyright and License
 
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+Copyright 2013-2018 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-agency/blob/gh-pages/LICENSE) license.
